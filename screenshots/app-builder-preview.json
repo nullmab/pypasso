@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "PyPasso",
+      "hasCanvas": false,
+      "bodyTextLen": 49,
+      "bodyTextHash": "2dc9a6e746f2367e9f6dbdd76286bd5b2f3b0f062ed8b673b73a19ceabb589a0",
+      "bodyTextPrefix": "PyPasso Percorso Palestra Glossario Promemoria 0%",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "PyPasso",
+      "hasCanvas": false,
+      "bodyTextLen": 266,
+      "bodyTextHash": "7288ef5bf679732f20f771ae8e1483090d535bc35abbacb2a8b9791ef2c3a976",
+      "bodyTextPrefix": "PyPasso Percorso Palestra Glossario Promemoria QUADERNO DI LABOR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
